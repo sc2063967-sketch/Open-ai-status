@@ -1,0 +1,4 @@
+feedparser
+aiohttp
+flask
+flask-sock
